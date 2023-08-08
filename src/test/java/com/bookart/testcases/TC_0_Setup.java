@@ -51,8 +51,8 @@ public class TC_0_Setup {
 		driver.manage().window().maximize();
 		logger.info("Window is Maximized successfullly.");
 		// Geeting Url on Browser
-//		driver.get(url);
-//		logger.info("Getting a Base URL on Browser");
+		driver.get(url);
+		logger.info("Getting a Base URL on Browser");
 		
 	}
 
