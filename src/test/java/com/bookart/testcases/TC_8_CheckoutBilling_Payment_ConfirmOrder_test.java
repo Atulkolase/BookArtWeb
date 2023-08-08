@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import com.bookart.pagesobjects.PO_8_CheckoutBilling_Payment_ConfirmOrder;
 
-public class TC_8_CheckoutBilling_Payment_ConfirmOrder_test extends TC_1_BaseURl_HandleNewspopup{
+public class TC_8_CheckoutBilling_Payment_ConfirmOrder_test extends TC_0_Setup{
 
 	
 	@Test(priority = 0)
