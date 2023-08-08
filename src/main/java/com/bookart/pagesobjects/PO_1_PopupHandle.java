@@ -21,11 +21,13 @@ public class PO_1_PopupHandle {
 		PageFactory.initElements(driver1, this);
 
 	}
-	@FindBy(xpath = "(//span[@aria-hidden=\"true\"])[1]")
+	@FindBy(xpath="//button[@id='btnCloseModal']")
+	//@FindBy(xpath = "(//span[@aria-hidden=\"true\"])[1]")
 	WebElement NewsletterPopup;
 	public void newsLetterPopup() {
 		// NewsLetterPopup handle
 		try {
+			Thread.sleep(6000);
 			wait.until(ExpectedConditions.elementToBeClickable(NewsletterPopup));
 			executor.executeScript("arguments[0].click();", NewsletterPopup);
 			System.out.println("Newsletter Popup Handled");

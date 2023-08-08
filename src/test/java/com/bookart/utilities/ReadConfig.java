@@ -7,8 +7,10 @@ public class ReadConfig {
 	
 	Properties properties;
 
-	String path = "C:\\Users\\Admin\\eclipse-workspace\\BoookartWeb\\configuration\\config.properties";
+	String path = System.getProperty("user.dir")+"/configuration/config.properties";
 
+//	public static String CONFIG_FILE_PATH =System.getProperty("user.dir")+"/src/main/java/com/gb/Configuration/config.properties";
+	
 	//constructor
 	public ReadConfig() {
 		try {
