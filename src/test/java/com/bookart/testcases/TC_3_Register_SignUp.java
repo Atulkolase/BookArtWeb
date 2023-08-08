@@ -19,7 +19,7 @@ public class TC_3_Register_SignUp extends TC_0_Setup {
 
 	@Test(enabled = true, priority = 1)
 	public void TC_Verify_NavigationFlow_from_HomePage_To_SignupPage() throws Exception {
-		driver.navigate().to(url);
+		//driver.navigate().to(url);
 		PO_1_PopupHandle clasoePopup = new PO_1_PopupHandle(driver);
 		clasoePopup.newsLetterPopup();
 		logger.info("Clicking on User Profile Account Menu ");

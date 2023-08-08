@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import com.bookart.pagesobjects.PO_6_ViewBagPage;
 
 public class TC_6_ViewBagPage extends TC_0_Setup {
-
+	
 	@Test(priority = 0)
 	public void VerifyAddCart() {
 		PO_6_ViewBagPage clickaddcartlogo = new PO_6_ViewBagPage(driver);

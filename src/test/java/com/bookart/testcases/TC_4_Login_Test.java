@@ -22,6 +22,8 @@ public class TC_4_Login_Test extends TC_0_Setup {
 	@Test(enabled = true, priority = 2)
 
 	public void TC_Login_Verify_LoginPageURL() throws Exception {
+		PO_1_PopupHandle clasoePopup = new PO_1_PopupHandle(driver);
+		clasoePopup.newsLetterPopup();
 		logger.info("*********Login Scenario Starts ********");
 		logger.info("Login Step#1: Navigate to Login Page URL.");
 		driver.navigate().to(expectedLoginURL);
