@@ -9,7 +9,9 @@
 			<class name="com.bookart.testcases.TC_3_Register_SignUp" />
 			<class name="com.bookart.testcases.TC_4_Login_Test" />
 			<class name="com.bookart.testcases.TC_2_UiHomePage" />
-			<class name="com.bookart.testcases.TC_6_ViewBagPage" />
+		<class name="com.bookart.testcases.TC_6_ViewBagPage" />
+			<class name="com.bookart.testcases.TC_7_AddtoCart_Test" />
+			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
