@@ -1,0 +1,28 @@
+[INFO ] 2023-08-08 01:04:30.238 [main] BoookartWeb - The WebDriver Sesssion Starts successfully.
+[INFO ] 2023-08-08 01:04:30.404 [main] BoookartWeb - Window is Maximized successfullly.
+[INFO ] 2023-08-08 01:04:30.524 [main] BoookartWeb - *********TestCase1-Verify-Launched-BaseURL Start ********
+[INFO ] 2023-08-08 01:04:33.210 [main] BoookartWeb - Verifying ....Home Page URL is Opened or not on browser....
+[INFO ] 2023-08-08 01:04:33.226 [main] BoookartWeb - ********TestCase1-Verify-LaunchedBaseURL End********
+[INFO ] 2023-08-08 01:04:33.244 [main] BoookartWeb - ********* TestCase2-Verify-NewsletterPopup Start ********
+[INFO ] 2023-08-08 01:04:39.007 [main] BoookartWeb - ******** TestCase2-Verify-NewsletterPopup End ********
+[INFO ] 2023-08-08 01:15:03.527 [main] BoookartWeb - The WebDriver Sesssion Starts successfully.
+[INFO ] 2023-08-08 01:15:03.677 [main] BoookartWeb - Window is Maximized successfullly.
+[INFO ] 2023-08-08 01:15:06.338 [main] BoookartWeb - *********TestCase1-Verify-Launched-BaseURL Start ********
+[INFO ] 2023-08-08 01:15:07.292 [main] BoookartWeb - Verifying ....Home Page URL is Opened or not on browser....
+[INFO ] 2023-08-08 01:15:07.837 [main] BoookartWeb - ********TestCase1-Verify-LaunchedBaseURL End********
+[INFO ] 2023-08-08 01:15:07.843 [main] BoookartWeb - ********* TestCase2-Verify-NewsletterPopup Start ********
+[INFO ] 2023-08-08 01:15:38.186 [main] BoookartWeb - ******** TestCase2-Verify-NewsletterPopup End ********
+[INFO ] 2023-08-08 01:21:10.223 [main] BoookartWeb - The WebDriver Sesssion Starts successfully.
+[INFO ] 2023-08-08 01:21:10.362 [main] BoookartWeb - Window is Maximized successfullly.
+[INFO ] 2023-08-08 01:21:12.852 [main] BoookartWeb - *********TestCase1-Verify-Launched-BaseURL Start ********
+[INFO ] 2023-08-08 01:21:14.243 [main] BoookartWeb - Verifying ....Home Page URL is Opened or not on browser....
+[INFO ] 2023-08-08 01:21:14.286 [main] BoookartWeb - ********TestCase1-Verify-LaunchedBaseURL End********
+[INFO ] 2023-08-08 01:21:14.294 [main] BoookartWeb - ********* TestCase2-Verify-NewsletterPopup Start ********
+[INFO ] 2023-08-08 01:21:19.259 [main] BoookartWeb - ******** TestCase2-Verify-NewsletterPopup End ********
+[INFO ] 2023-08-08 01:27:53.658 [main] BoookartWeb - The WebDriver Sesssion Starts successfully.
+[INFO ] 2023-08-08 01:27:53.797 [main] BoookartWeb - Window is Maximized successfullly.
+[INFO ] 2023-08-08 01:27:58.303 [main] BoookartWeb - *********TestCase1-Verify-Launched-BaseURL Start ********
+[INFO ] 2023-08-08 01:27:59.833 [main] BoookartWeb - Verifying ....Home Page URL is Opened or not on browser....
+[INFO ] 2023-08-08 01:27:59.939 [main] BoookartWeb - ********TestCase1-Verify-LaunchedBaseURL End********
+[INFO ] 2023-08-08 01:27:59.943 [main] BoookartWeb - ********* TestCase2-Verify-NewsletterPopup Start ********
+[INFO ] 2023-08-08 01:28:05.712 [main] BoookartWeb - ******** TestCase2-Verify-NewsletterPopup End ********

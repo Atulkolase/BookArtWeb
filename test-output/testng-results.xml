@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-08T01:21:06 IST" name="Suite" finished-at="2023-08-08T01:22:20 IST" duration-ms="73639">
+    <groups>
+    </groups>
+    <test started-at="2023-08-08T01:21:06 IST" name="Test" finished-at="2023-08-08T01:22:20 IST" duration-ms="73639">
+      <class name="com.bookart.testcases.TC_2_UiHomePage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:21:06 IST" name="setup" finished-at="2023-08-08T01:21:10 IST" duration-ms="3770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="A_LaunchedBaseURL()[pri:0, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:21:10 IST" name="A_LaunchedBaseURL" finished-at="2023-08-08T01:21:12 IST" duration-ms="2427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A_LaunchedBaseURL -->
+        <test-method signature="TC_Verify_LaunchedBaseURL()[pri:0, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:21:12 IST" name="TC_Verify_LaunchedBaseURL" finished-at="2023-08-08T01:21:14 IST" duration-ms="1438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Verify_LaunchedBaseURL -->
+        <test-method signature="TC_Verify_to_HandleNewsletterPopup()[pri:1, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:21:14 IST" name="TC_Verify_to_HandleNewsletterPopup" finished-at="2023-08-08T01:21:19 IST" duration-ms="4968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Verify_to_HandleNewsletterPopup -->
+        <test-method signature="verifybookbtn()[pri:1, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:21:19 IST" name="verifybookbtn" finished-at="2023-08-08T01:21:22 IST" duration-ms="2917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybookbtn -->
+        <test-method signature="currentAffairs()[pri:2, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:21:22 IST" name="currentAffairs" finished-at="2023-08-08T01:21:24 IST" duration-ms="2353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentAffairs -->
+        <test-method signature="drishti()[pri:3, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:21:24 IST" name="drishti" finished-at="2023-08-08T01:22:08 IST" duration-ms="44307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drishti -->
+        <test-method signature="maheshkumar()[pri:4, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:22:08 IST" name="maheshkumar" finished-at="2023-08-08T01:22:11 IST" duration-ms="2401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maheshkumar -->
+        <test-method signature="thevision()[pri:5, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:22:11 IST" name="thevision" finished-at="2023-08-08T01:22:15 IST" duration-ms="4026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thevision -->
+        <test-method signature="whatsappIcon()[pri:6, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:22:15 IST" name="whatsappIcon" finished-at="2023-08-08T01:22:19 IST" duration-ms="4588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whatsappIcon -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.bookart.testcases.TC_2_UiHomePage@7a6d7e92]" started-at="2023-08-08T01:22:19 IST" name="exit" finished-at="2023-08-08T01:22:20 IST" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.bookart.testcases.TC_2_UiHomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
