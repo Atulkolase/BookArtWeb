@@ -6,12 +6,13 @@
 	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>
+			<class name="com.bookart.testcases.TC_2_UiHomePage" />
 			<class name="com.bookart.testcases.TC_3_Register_SignUp" />
 			<class name="com.bookart.testcases.TC_4_Login_Test" />
-			<class name="com.bookart.testcases.TC_2_UiHomePage" />
-		<class name="com.bookart.testcases.TC_6_ViewBagPage" />
+			<class name="com.bookart.testcases.TC_5_SearchPage" />
 			<class name="com.bookart.testcases.TC_7_AddtoCart_Test" />
-			
+			<class name="com.bookart.testcases.TC_6_ViewBagPage" />
+			<class name="com.bookart.testcases.TC_8_CheckoutBilling_Payment_ConfirmOrder_test" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
