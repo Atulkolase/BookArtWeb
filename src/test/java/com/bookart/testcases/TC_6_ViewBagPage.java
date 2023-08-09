@@ -69,7 +69,7 @@ public class TC_6_ViewBagPage extends TC_0_Setup {
 	public void quantity() throws InterruptedException {
 		PO_6_ViewBagPage quant = new PO_6_ViewBagPage(driver);
 		String Quantity = quant.Quantity();
-		Assert.assertEquals(Quantity, "335");
+		Assert.assertEquals(Quantity, "₹335");
 		Thread.sleep(2000);
 
 	}
@@ -78,7 +78,7 @@ public class TC_6_ViewBagPage extends TC_0_Setup {
 	public void update_quantity() {
 		PO_6_ViewBagPage update_quant = new PO_6_ViewBagPage(driver);
 		String Quantity1 = update_quant.Update_Quantity();
-		Assert.assertEquals(Quantity1, "670");
+		Assert.assertEquals(Quantity1, "₹670");
 	}
 
 	@Test(enabled=false,priority = 6)
